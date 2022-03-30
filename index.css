@@ -1,0 +1,15 @@
+* {   
+    text-align: center;   
+}
+
+#flex{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue;
+    margin: 0px 15px 0px 0px;
+}
